@@ -49,7 +49,7 @@ CrazyEye是基于Python开发的一款简单易用的IT审计堡垒机,通过对
 *  进入CrazyEye目录执行`sudo pip3 install -r requirements.txt `
 
 ####3.安装sshpass
-*  进入src目录,执行`tar xvzff sshpass-1.06.tar.gz`
+*  进入src目录,执行`tar xzvf sshpass-1.06.tar.gz`
 *  `cd sshpass-1.06/`
 *  `./configure`
 *  `make && make install`
